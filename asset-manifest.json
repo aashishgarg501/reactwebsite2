@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/aashishgarg501.github.io/reactwebsite2/static/css/main.bd1999c6.css",
-    "main.js": "/aashishgarg501.github.io/reactwebsite2/static/js/main.d1e79e15.js",
-    "static/media/1.jpg": "/aashishgarg501.github.io/reactwebsite2/static/media/1.cbee62aa89edcfdf25c3.jpg",
-    "static/media/8.jpg": "/aashishgarg501.github.io/reactwebsite2/static/media/8.678a84e427ddc784a7c7.jpg",
-    "static/media/2.jpg": "/aashishgarg501.github.io/reactwebsite2/static/media/2.3da31af7203a59dc9c57.jpg",
-    "static/media/3.jpg": "/aashishgarg501.github.io/reactwebsite2/static/media/3.5c37a099b7b1fe2911c3.jpg",
-    "static/media/7.jpg": "/aashishgarg501.github.io/reactwebsite2/static/media/7.6c7752f1f81a829cadc2.jpg",
-    "static/media/4.jpg": "/aashishgarg501.github.io/reactwebsite2/static/media/4.4e8b138ee10b04599913.jpg",
-    "static/media/6.jpg": "/aashishgarg501.github.io/reactwebsite2/static/media/6.be972a8b75d407c841ed.jpg",
-    "index.html": "/aashishgarg501.github.io/reactwebsite2/index.html",
-    "main.bd1999c6.css.map": "/aashishgarg501.github.io/reactwebsite2/static/css/main.bd1999c6.css.map",
-    "main.d1e79e15.js.map": "/aashishgarg501.github.io/reactwebsite2/static/js/main.d1e79e15.js.map"
+    "main.css": "/simple-html-template/static/css/main.bd1999c6.css",
+    "main.js": "/simple-html-template/static/js/main.4349103f.js",
+    "static/media/1.jpg": "/simple-html-template/static/media/1.cbee62aa89edcfdf25c3.jpg",
+    "static/media/8.jpg": "/simple-html-template/static/media/8.678a84e427ddc784a7c7.jpg",
+    "static/media/2.jpg": "/simple-html-template/static/media/2.3da31af7203a59dc9c57.jpg",
+    "static/media/3.jpg": "/simple-html-template/static/media/3.5c37a099b7b1fe2911c3.jpg",
+    "static/media/7.jpg": "/simple-html-template/static/media/7.6c7752f1f81a829cadc2.jpg",
+    "static/media/4.jpg": "/simple-html-template/static/media/4.4e8b138ee10b04599913.jpg",
+    "static/media/6.jpg": "/simple-html-template/static/media/6.be972a8b75d407c841ed.jpg",
+    "index.html": "/simple-html-template/index.html",
+    "main.bd1999c6.css.map": "/simple-html-template/static/css/main.bd1999c6.css.map",
+    "main.4349103f.js.map": "/simple-html-template/static/js/main.4349103f.js.map"
   },
   "entrypoints": [
     "static/css/main.bd1999c6.css",
-    "static/js/main.d1e79e15.js"
+    "static/js/main.4349103f.js"
   ]
 }
